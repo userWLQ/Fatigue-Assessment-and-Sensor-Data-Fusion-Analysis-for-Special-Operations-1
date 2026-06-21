@@ -142,7 +142,7 @@
 
   This repository supports the manuscript:
 
-  **Fatigue Assessment and Sensor Data Fusion Analysis for Special Operations**
+  **Sensor-Data-Based Assessment of Operational Capability in Transmission-Line Work at Height**
 
   If needed, the manuscript file can be provided separately as part of the submission package.
   
