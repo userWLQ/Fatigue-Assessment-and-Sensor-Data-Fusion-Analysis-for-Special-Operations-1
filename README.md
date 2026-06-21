@@ -1,6 +1,6 @@
-﻿- # Fatigue Assessment and Sensor Data Fusion Analysis for Special Operations
+﻿- # Sensor-Data-Based Assessment of Operational Capability in Transmission-Line Work at Height
 
-  This repository contains the source data, subject-level files, and analysis scripts used in the study **“Fatigue Assessment and Sensor Data Fusion Analysis for Special Operations.”** It is organized as a public supplementary repository to support editorial review, peer review, and result verification.
+  This repository contains the source data, subject-level files, and analysis scripts used in the study **“Sensor-Data-Based Assessment of Operational Capability in Transmission-Line Work at Height”** It is organized as a public supplementary repository to support editorial review, peer review, and result verification.
 
   ## Purpose of this repository
 
