@@ -100,6 +100,8 @@ These files were used to extract EMG signal segments, calculate reference values
 
 Some subject-level folders contain files named `MVC.*`. These filenames reflect the original acquisition/export structure. The revised manuscript did not use formal MVC normalization for the reported EMG-derived profiles.
 
+Video recordings are not included in the public reproducibility package because they may contain directly identifiable participant or workplace information. The public repository is intended to retain de-identified numerical signals, processed outputs, and analysis scripts only.
+
 ## Software environment
 
 The revised analysis scripts require Python and the packages listed in `requirements.txt`.
@@ -261,7 +263,7 @@ The revised scripts are designed to improve transparency of the statistical work
 
 ## Data and privacy
 
-This repository is intended for scientific review and reproducibility. The publicly shared version should contain only de-identified data. Files containing direct personal identifiers or identifiable video content should be removed, masked, or shared only under the approved ethics and consent conditions.
+This repository is intended for scientific review and reproducibility. The publicly shared version contains de-identified numerical data and analysis files. Direct personal identifiers, individual health notes, and identifiable video content should not be included in the public repository. Any controlled-access materials, if needed, should be shared only under the approved ethics and consent conditions.
 
 ## Data availability statement
 
